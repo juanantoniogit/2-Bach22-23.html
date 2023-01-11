@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">  
 <head>    
-    <title>Título de la WEB</title>    
+    <title>WEB DE PACO</title>    
     <meta charset="UTF-8">
-    <meta name="title" content="Título de la WEB">
+    <meta name="title" content="WEB DE PACO">
     <meta name="description" content="Descripción de la WEB">    
     <link href="estilos.css" rel="stylesheet">    
 </head>  
