@@ -1,0 +1,56 @@
+@font-face { /* Definición de una fuente LearningCurveProRegular */
+font-family: 'LearningCurveProRegular';
+src: url('LearningCurve_OT-webfont.eot');
+src: url('LearningCurve_OT-webfont.eot?#iefix')
+format('embedded-opentype'),
+url('LearningCurve_OT-webfont.woff') format('woff'),
+url('LearningCurve_OT-webfont.ttf') format('truetype'),
+url('LearningCurve_OT-webfont.svg#LearningCurveProRegular')
+format('svg');
+}
+h1
+{
+	font-size: 50px;
+	color:gray;
+	font-family:fantasy;
+	text-align: center;
+}
+h2
+{
+	font-size: 24px;
+
+}
+
+h3
+{
+	font-size: 20px;
+}
+
+
+
+
+p
+{
+color: rgb(0,0,0);
+font-size: 15px;
+font-family:sans-serif;
+text-align: left;
+}
+
+
+LI
+{
+
+	color: red;
+	font-size: 20px;
+
+}
+a
+{
+	color: blue;
+	font-family: cursive;
+}
+caption
+{
+	color: blue;
+}
