@@ -14,10 +14,19 @@ h1
 	color:gray;
 	font-family:fantasy;
 	text-align: center;
+	border-radius: 10px;
+	border-left: 6px red ridge;
+	border-right: 4px red ridge;
+	border-top: 5px blue ridge;
+	border-bottom: 5px blue ridge;
+	text-shadow: 2px 2px 2px black;
+	background-image: url("../Img/img4.jpg");
+	
 }
 h2
 {
 	font-size: 24px;
+	font-weight:bolder;
 
 }
 
@@ -35,7 +44,9 @@ p
 color: rgb(0,0,0);
 font-size: 15px;
 font-family:sans-serif;
-text-align: left;
+text-align: justify;
+text-shadow: 2px 2px 2px gray;
+
 }
 
 
@@ -45,13 +56,29 @@ LI
 	color: red;
 	font-size: 20px;
 
+	border: 1px gray inset;
+
 }
 a
 {
 	color: blue;
 	font-family: cursive;
 }
+a:hover
+{
+color: green;
+font-size: 20px;
+}
 caption
 {
 	color: blue;
+}
+img:hover
+{
+	border:2px black dotted;
+	width: 450;
+	height: 275;
+	
+
+
 }
