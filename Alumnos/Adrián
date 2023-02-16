@@ -1,36 +1,80 @@
 <!DOCTYPE html>
 <html lang="es">  
-<head>    
-    <title>Título de la WEB</title>    
+<head> 
+    <FONT Color="#FFFFFF">  
+    <title>La Hamburguesería de Adrián</title>  
+    </div>  
     <meta charset="UTF-8">
-    <meta name="title" content="Título de la WEB">
+    <meta name="title" content="La Hamburguesería de Adrián">
     <meta name="description" content="Descripción de la WEB">    
-    <link href="estilos.css" rel="stylesheet">    
-</head>  
-<body>    
+    <link href="estilos.css" rel="stylesheet"> 
+    <BODY BGCOLOR="#000000">
+
+
+    
+    </head>  
+    <body>    
     <header>
-        <h1>Título de la WEB</h1>      
+    	<div style="text-align:center";>
+        <h1>La Hamburguesería de Adrián</h1> 
+        <div style="text-align:center";>
+        <img src="../Img/hamburguesa.jpg" ALIGN="center">
+        </div>     
+        
+    
     </header>    
     <nav>
+    	<div style="text-align:center";>
         <a href="#">IR SECCIÓN 2</a>
         <a href="#">IR SECCIÓN 3</a>
         <a href="Alumnos/Dani.html">Página de Dani</a>
     </nav>
     <section>      
         <article>
-            <h2>CONTENIDO PRINCIPAL</h2>
-            <p>Este es el contenido principal de mi web.
+        	<div style="text-align:center";>
+            <h2>Complementos:  </h2>
 
-               
-</p>      
- main
-        </article>      
+            <LI>Patatas con queso cheddar- 3,50€
+               <LI>Bravas - 3€
+            	  <LI>6 Nuggets de pollo - 4€
+            	 	<LI>5 Alitas de pollo - 3,50€
+            			
+            </UL>   </h2>
+            
+           
+        
+        </article> 
+         
     </section>
     <aside>
-        <h3>Testimonios</h3>
-        <p>Me gusta mucho esta página.</p>
+    	<div style="text-align:center";>
+        <h2>Hamburguesas: </h2>
+           
+           <LI>American Burguer:(ternera, queso cheddar, tomate, lechuga y huevo frito) - 8,50€
+               <LI>Chicken Burguer:(pollo, queso cheddar, queso edamm, tomate, lechuga, mayonesa y bacon) - 9,50€
+            	  <LI>Cheese Burguer:(ternera, queso edamm, queso cheddar, queso azul, queso roquefort, tomate, lechuga y huevo frito) - 12€
+            	 	
+            			
+            </UL>   </h2>
+
+           <div style="text-align:center";>
+           <h2>Bebidas: </h2>
+
+             <LI>Coca Cola - 2,50€
+
+             	<LI> Fanta - 2,50€
+
+             		<LI> Agua - 1,50€
+
+             			<LI> Aquarius - 2,50€
+           	              
+           	                <LI>Cerveza - 3€
+           	                	</div>
+           
+
     </aside>
     <footer>
+    	<div style="text-align:center";>
         <h4>Redes sociales</h4>
         <a href="#">Facebook</a>
         <a href="#">Tiwtter</a>
